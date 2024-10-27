@@ -1,2 +1,6 @@
-# SOS-Guard-Repo-Jonnesway-Parsing-Bot
+# Jonnesway Parsing Bot
+## Кейс №2 Парсер и анализатор карточек товаров торговых 
+площадок
+## Команда SOS Guard 
+
 Python код телеграмм бота для парсинга сайта Jonnesway от команды SOS Guard на "Хакатон осень 2024"
